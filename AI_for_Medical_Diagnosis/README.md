@@ -1,7 +1,6 @@
 # AI For Medical Diagnosis
 
 ## Week 1:
-- Introduction: A conversation with Andrew Ng
 - Diagnosis examples
 - Model training on chest X-Rays
 - Training, prediction, and loss
@@ -13,7 +12,6 @@
 - Model testing
 
 ## Week 2:
-- Introduction: A conversation with Andrew Ng
 - Evaluation metrics
 - Accuracy in terms of conditional probability
 - Sensitivity, specificity, and prevalence
@@ -25,7 +23,6 @@
 - Using a sample to estimate the population
 
 ## Week 3:
-- Introduction: A conversation with Andrew Ng
 - Representing MRI data
 - Image registration
 - 2D and 3D segmentation

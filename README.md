@@ -36,5 +36,5 @@ Here are links to other of my Computer Vision & Image Processing projects:
    ML\DL model for detecting drowsiness recognition based on facial image/video.
 - ### [Automated Cell Counting](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI)
   Automate cell counting in microscopy images.
-- ###[ML assessment](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa)
+- ### [ML assessment](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa)
   Automate the reading of the total amount of receipts. 

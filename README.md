@@ -26,3 +26,7 @@ This course offered:
   - Object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label images.
   - Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and Mask-RCNN to identify and detect numbers, pets, zombies, and more.
   - Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.
+
+
+## Disclaimer
+Copyright of all materials in thoses courses belongs to DeepLearning.AI, and TensorFlow and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.

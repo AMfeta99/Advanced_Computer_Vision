@@ -30,7 +30,7 @@ This course offered:
 ## Projects:
 Here are links to other of my computer vision projects: 
 
-- [Face Img/Video based drowsiness recognition](https://github.com/AMfeta99/Face-img-video-based-drowsiness-recognition) : ML\DL model for detecting drowsiness recognition based on facial image/video.
+- [Face Img/Video based drowsiness recognition](https://github.com/AMfeta99/Face-img-video-based-drowsiness-recognition): ML\DL model for detecting drowsiness recognition based on facial image/video.
 
 ## Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, and TensorFlow and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.

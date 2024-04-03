@@ -32,5 +32,7 @@ Copyright of all materials in thoses courses belongs to DeepLearning.AI, and Ten
 
 ## Projects:
 Here are links to other of my Computer Vision & Image Processing projects: 
-- ### [Face Img/Video based drowsiness recognition](https://github.com/AMfeta99/Face-img-video-based-drowsiness-recognition): ML\DL model for detecting drowsiness recognition based on facial image/video.
-- ### [Automated Cell Counting](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI): Automate cell counting in microscopy images. 
+- ### [Face Img/Video based drowsiness recognition](https://github.com/AMfeta99/Face-img-video-based-drowsiness-recognition)
+   ML\DL model for detecting drowsiness recognition based on facial image/video.
+- ### [Automated Cell Counting](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI)
+  Automate cell counting in microscopy images. 

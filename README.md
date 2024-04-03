@@ -6,6 +6,7 @@ This repository is dedicated to projects and some theoretical material that I us
 - Image Classification
 - Object Detection/Location
 - Image Segmentation
+- Transfer Learning
 - Vizualization and Interpretability
 
 

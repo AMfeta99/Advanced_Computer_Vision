@@ -16,7 +16,7 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 But how can AI be applied to medical imaging to diagnose diseases? 
 
 This course offered:
-  - The nuances of working with both 2D and 3D medical image data, for multi-class classification and image segmentation.
+  - Nuances of working with both 2D and 3D medical image data, for multi-class classification and image segmentation.
   - Practical/theorical material of how to classify diseases in x-ray images and segment tumors in 3D MRI brain images.
   - How to properly evaluate the performance of your models.
 

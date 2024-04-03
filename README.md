@@ -37,4 +37,4 @@ Here are links to other of my Computer Vision & Image Processing projects:
 - ### [Automated Cell Counting](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI)
   Automate cell counting in microscopy images.
 - ### [ML assessment](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa)
-  Automate the reading of the total amount of receipts. 
+  Automate reading of total value of receipts by OCR, automatically select/extract region of total value over all possible numbers/regions, retrieve result in correct format.

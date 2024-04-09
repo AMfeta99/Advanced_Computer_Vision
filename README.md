@@ -20,7 +20,7 @@ This course offered:
   - Nuances of working with both 2D and 3D medical image data, for multi-class classification and image segmentation.
   - Practical/theorical material of how to classify diseases in x-ray images and segment tumors in 3D MRI brain images.
   - How to properly evaluate the performance of your models.
-##### [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3)
+##### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3)
 
 
 ### [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/) (DeepLearning.AI & TensorFlow)

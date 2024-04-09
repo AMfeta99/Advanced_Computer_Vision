@@ -12,7 +12,7 @@ This repository is dedicated to projects and some theoretical material that I us
 
 
 ## Courses:
-### [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) (DeepLearning.AI) #### [Certificate](https://coursera.org/share/8bdef2203c0127f55af309e71b201452)
+### [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) (DeepLearning.AI) 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.
 But how can AI be applied to medical imaging to diagnose diseases? 
 
@@ -20,6 +20,7 @@ This course offered:
   - Nuances of working with both 2D and 3D medical image data, for multi-class classification and image segmentation.
   - Practical/theorical material of how to classify diseases in x-ray images and segment tumors in 3D MRI brain images.
   - How to properly evaluate the performance of your models.
+##### [Certificate](https://coursera.org/share/8bdef2203c0127f55af309e71b201452)
 
 
 ### [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/) (DeepLearning.AI & TensorFlow)

@@ -20,7 +20,7 @@ This course offered:
   - Nuances of working with both 2D and 3D medical image data, for multi-class classification and image segmentation.
   - Practical/theorical material of how to classify diseases in x-ray images and segment tumors in 3D MRI brain images.
   - How to properly evaluate the performance of your models.
-##### [Certificate](https://coursera.org/share/8bdef2203c0127f55af309e71b201452)
+##### [Course certificate](https://coursera.org/share/8bdef2203c0127f55af309e71b201452)
 
 
 ### [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/) (DeepLearning.AI & TensorFlow)
@@ -28,6 +28,8 @@ This course offered:
   - Object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label images.
   - Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and Mask-RCNN to identify and detect numbers, pets, zombies, and more.
   - Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.
+
+##### [Course certificate]()
 
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, and TensorFlow and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.

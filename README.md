@@ -13,6 +13,7 @@ This repository is dedicated to projects and some theoretical material that I us
 
 ## Courses:
 ### [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) (DeepLearning.AI)
+#### [Certificate](https://coursera.org/share/8bdef2203c0127f55af309e71b201452)
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.
 But how can AI be applied to medical imaging to diagnose diseases? 
 

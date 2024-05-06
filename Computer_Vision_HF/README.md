@@ -1,4 +1,4 @@
-# Computer Vision Course (By Hugging Face)
+# Computer Vision Course (by Hugging Face)
 
 ## Unit 1 - Fundamentals
 ## Unit 2 - Convolutional Neural Networks

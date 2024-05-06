@@ -1,5 +1,6 @@
-# Computer Vision Course (by Hugging Face)
+# [Computer Vision Course (by Hugging Face)](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
 (ongoing... repository under construction)
+
 
 ## Unit 1 - Fundamentals
 ## Unit 2 - Convolutional Neural Networks

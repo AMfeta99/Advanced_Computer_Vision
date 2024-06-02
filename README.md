@@ -31,7 +31,7 @@ This course offered:
 ##### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA) ;  [More Info](https://www.coursera.org/account/accomplishments/verify/DDXQAQBTVVTA)
 
 ### Disclaimer
-Copyright of all materials in thoses courses belongs to DeepLearning.AI, and TensorFlow and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
+Copyright of all materials in thoses courses belongs to DeepLearning.AI, TensorFlow and HuggingFace and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 ## Projects:
 Here are links to my Computer Vision & Image Processing projects: 

@@ -10,7 +10,7 @@ This repository is dedicated to projects and some theoretical material that I us
 - Vizualization and Interpretability
 
 With the aim of deepening my knowledge on topics that interest me most and that are more complex and require deeper knowledge to understand and master, I created additional repositories with notes and enthusiastic projects.
-## Link to relevant/extra repositories:
+## Link to Relevant/Extra repositories:
 ### [3D_DeepLeaning](https://github.com/AMfeta99/3D_DeepLearning)
 
 

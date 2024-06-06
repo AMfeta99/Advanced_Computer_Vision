@@ -8,6 +8,10 @@ This repository is dedicated to projects and some theoretical material that I us
 - Image Segmentation
 - Transfer Learning
 - Vizualization and Interpretability
+- Vision Transformers & Vision Language Models (VLMS)
+- Generative Models & Synthetic Data
+- 3D Computer Vision
+- Zero-shot Computer Vision
 
 With the aim of deepening my knowledge on topics that interest me most and that are more complex and require deeper knowledge to understand and master, I created additional repositories with notes and enthusiastic projects.
 ## Link to Relevant/Extra repositories:

@@ -15,8 +15,28 @@ The repository contains:
 ## Notes & Content:
 (Check my notes on links below)
 
-[Part I]()
-   
+[Part I](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/Computer_vision_Part_1.pdf)
+- Introduction
+- Fundamentals Image/(ing)
+- Computer Vision
+- Pre-processing for Computer Vision
+- Convolutional Neural Networks
+- Vision Transformers
+- Typical CV Tasks
+
+[Part II]()
+- Multimodal Models
+- Vision Language Models (VLMS)
+- Generative Models
+- Video
+
+[Part III]()
+- 3D Computer Vision
+- Model Optimization
+- Synthetic Data
+- Zero-shot Computer Vision
+
+<!--   
 ## Unit 1 - Fundamentals
 ## Unit 2 - Convolutional Neural Networks
 ## Unit 3 - Vision Transformers
@@ -32,5 +52,5 @@ https://huggingface.co/learn/ml-for-3d-course/unit0/introduction
 https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/
 ## Unit 12 - Ethical & Biases
 ## Unit 13 - Outlook
-
+-->
 

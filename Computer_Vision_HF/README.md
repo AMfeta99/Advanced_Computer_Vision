@@ -2,6 +2,21 @@
 (ongoing... repository under construction)
 
 
+The repository contains:
+## Code Notebooks:
+ - Feature_Matching
+ - SOTA_CNN_Models 
+ - Transfer Learning Image Classification
+ - Knowledge Distillation
+ - MaskFormer Transfer Learning Segmentation
+ - CLIP
+ - Multimodal Models VLMs
+
+## Notes & Content:
+(Check my notes on links below)
+
+[Part I]()
+   
 ## Unit 1 - Fundamentals
 ## Unit 2 - Convolutional Neural Networks
 ## Unit 3 - Vision Transformers

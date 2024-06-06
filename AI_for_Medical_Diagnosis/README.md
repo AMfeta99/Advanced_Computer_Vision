@@ -37,4 +37,4 @@
 - Algorithmic bias
 - Model influence on medical decision-making
 
-https://github.com/amanchadha/coursera-ai-for-medicine-specialization/tree/master
+<!-- https://github.com/amanchadha/coursera-ai-for-medicine-specialization/tree/master -->

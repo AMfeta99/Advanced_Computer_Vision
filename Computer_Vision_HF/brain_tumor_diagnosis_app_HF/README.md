@@ -1,7 +1,7 @@
 # Brain Tumor Diagnosis
 Brain tumor diagnostic app developed with Gradio. 
 
-### Try the App Demo : [Link](https://huggingface.co/spaces/AMfeta99/brain_tumor_diagnosis)
+### Try the Demo : [App](https://huggingface.co/spaces/AMfeta99/brain_tumor_diagnosis)
 
 ![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/227f5436-105d-4177-ae78-b42a5f69742a)
 

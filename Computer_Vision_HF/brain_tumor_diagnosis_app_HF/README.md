@@ -1,13 +1,9 @@
 # Brain Tumor Diagnosis
-![brain-tumor-scansjpg__1024x480_q100_crop_subsampling-2_upscale](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/cf675a49-d0d0-45f1-98eb-37b904dca82b)
-
 Brain tumor diagnostic app developed with Gradio. 
+![brain-tumor-scansjpg__1024x480_q100_crop_subsampling-2_upscale](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/cf675a49-d0d0-45f1-98eb-37b904dca82b)
 
 ### Try the Demo : [App](https://huggingface.co/spaces/AMfeta99/brain_tumor_diagnosis)
 [x-ray sample available on this repo]
-
-![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/227f5436-105d-4177-ae78-b42a5f69742a)
-
 
 
 ### Description
@@ -23,6 +19,8 @@ The original dataset was splitted into training and evaluation subsets, 80% for 
 
 The final version of the model is available at:
 [vit-base-oxford-brain-tumor](https://huggingface.co/AMfeta99/vit-base-oxford-brain-tumor)
+
+![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/227f5436-105d-4177-ae78-b42a5f69742a)
 
 
 

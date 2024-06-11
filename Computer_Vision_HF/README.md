@@ -3,9 +3,11 @@
 
 
 The repository contains:
+
 ## Short Project:
-- [Brain Tumor Diagnosis App](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF)
-  Brain tumor diagnostic app developed with Gradio. ViT fine-tuned for binary classification of brain X-rays.
+After researching and understanding the SOTA models for the several Computer vision tasks. I run a project to practice and gain some skills. There I fine-tune a transformer with a dataset from huggingface hub, and documented it properly in build an app that is hosted it on Hugging Face Spaces, so anyone can have access to it.
+- [Brain Tumor Diagnosis App](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF) : Brain tumor diagnostic app developed with Gradio. ViT fine-tuned for binary classification of brain X-rays.
+
 
 ## Code Notebooks:
  - Feature_Matching

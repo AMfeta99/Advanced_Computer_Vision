@@ -17,7 +17,7 @@ ViT model is originaly a transformer encoder model pre-trained and fine-tuned on
 ## Algorithm & Training Process
 ViT was fine-tuned for binary classification of brain X-rays, using the *dataset* [brain-tumor-dataset](https://universe.roboflow.com/roboflow-100/brain-tumor-m2pbp) that contains 253 brain images. This dataset was originally created by Yousef Ghanem.
 
-The original dataset was splitted into training and evaluation subsets, 80% for training and 20% for evaluation. For robust framework evaluation, the evaluation subset is further split into two equal parts for validation and testing. This results in three distinct datasets: training, validation, and testing. All pre-processing steps and training process can be found on [Notebook](Computer_Vision_HF/brain_tumor_diagnosis_app_HF/Transfer_learning_image_classification.ipynb)
+The original dataset was splitted into training and evaluation subsets, 80% for training and 20% for evaluation. For robust framework evaluation, the evaluation subset is further split into two equal parts for validation and testing. This results in three distinct datasets: training, validation, and testing. All pre-processing steps and training process can be found on [Notebook](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF/Transfer_learning_image_classification.ipynb)
 
 The final version of the model is available at:
 [vit-base-oxford-brain-tumor](https://huggingface.co/AMfeta99/vit-base-oxford-brain-tumor)

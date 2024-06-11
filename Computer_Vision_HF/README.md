@@ -3,6 +3,10 @@
 
 
 The repository contains:
+## Short Project:
+- [Brain Tumor Diagnosis App](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF)
+  Brain tumor diagnostic app developed with Gradio. ViT fine-tuned for binary classification of brain X-rays.
+
 ## Code Notebooks:
  - Feature_Matching
  - SOTA_CNN_Models 

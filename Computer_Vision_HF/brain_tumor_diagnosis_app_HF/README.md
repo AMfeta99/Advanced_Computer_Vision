@@ -22,7 +22,7 @@ Brain tumor diagnostic app was developed with Gradio. This is hosted by Hugging 
 ### Try the Demo : [App](https://huggingface.co/spaces/AMfeta99/brain_tumor_diagnosis)
 [x-ray sample available on this repo]
 
-![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/227f5436-105d-4177-ae78-b42a5f69742a)
+![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/8bead0a4-e3f7-4db3-819f-30a70c55c8f7)
 
 
 ### Framework versions

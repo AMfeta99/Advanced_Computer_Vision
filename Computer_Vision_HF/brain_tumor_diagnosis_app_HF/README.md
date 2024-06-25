@@ -2,12 +2,14 @@
 
 ![brain-tumor-scansjpg__1024x480_q100_crop_subsampling-2_upscale](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/cf675a49-d0d0-45f1-98eb-37b904dca82b)
 
-### Introduction & SOTA
-The human brain, a crucial organ located in the cranium, manages various functions through a complex network of billions of neurons coordinating electrical and chemical impulses. This organ is central to perception, emotion, and character, with distinct components like the cerebral cortex, responsible for consciousness, and the cerebellum, which handles balance and coordination. Despite its resilience, the brain can develop tumors, which are abnormal growths of cells. 
+### Introduction & literature
+The human brain, a crucial organ located in the cranium, manages various functions through a complex network of billions of neurons coordinating electrical and chemical impulses. This organ is central to perception, emotion, and character, with distinct components like the cerebral cortex, responsible for consciousness, and the cerebellum, which handles balance and coordination. Despite its resilience, the brain can develop tumors, which are abnormal growths of cells.
 
 Brain tumors, characterized by the rapid development of abnormal brain cells, pose a major health risk due to their potential to severely impair organ function or cause death. Diagnosing brain tumors typically involves imaging tests and biopsies. Detecting these tumors in MRI scans manually is challenging and time-consuming, often leading to inaccuracies.
 
-Advances in neuro-oncology, particularly with deep learning and artificial intelligence (AI), have significantly improved medical image analysis and cosequentemente and improving patient care outcomes. AI aids in the detection, diagnosis, and characterization of various medical conditions, enhancing early diagnosis and treatment decisions. Transfer learning (TL), use pre-existing models to improve medical image analysis efficiency and accuracy, significantly reducing training time and computational costs. Models like VGG, ResNet, Inception, MobileNet, and DenseNet have shown remarkable efficacy in identifying intricate patterns in medical images, particularly in cancer detection.
+Advances in neuro-oncology, particularly with deep learning and artificial intelligence (AI), have significantly improved the analysis of medical images and consequently improved patient care outcomes. AI assists in the detection, diagnosis, and characterization of various medical conditions, enhancing early diagnosis and treatment decisions. Transfer learning from pre-existing models has been shown to improve the efficiency and accuracy of medical image analysis, significantly reducing training time and computational costs. Models such as VGG, ResNet, Inception, MobileNet, DenseNet, and recently YOLO have already been tested in the literature, demonstrating remarkable effectiveness in identifying intricate patterns in medical images, particularly in cancer detection.
+
+All the previous models are convolutional neural network (CNN) architectures. In this study, I have fine-tuned a transformer-based model, Vision Transformer (ViT), achieving a performance of 92.31% accuracy on the test dataset. Transformer-based models are a different class of models that use self-attention mechanisms rather than convolutional layers for image analysis.
 
 ### Description
 This app is based on *Vision Transformer (ViT)* model [google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224).

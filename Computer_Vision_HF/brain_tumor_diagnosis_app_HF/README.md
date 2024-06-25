@@ -30,7 +30,7 @@ The final version of the model is available at:
 ## Application Demo
 Brain tumor diagnostic app was developed with Gradio. This is hosted by Hugging Face Spaces, so anyone can have access to it.
 ### Try the Demo : [App](https://huggingface.co/spaces/AMfeta99/brain_tumor_diagnosis)
-[x-ray sample available on this repo]
+
 
 ![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/8bead0a4-e3f7-4db3-819f-30a70c55c8f7)
 

@@ -67,7 +67,7 @@ The following hyperparameters were used during training:
 - Datasets 2.19.2
 - Tokenizers 0.19.1
 
-### References
+## References
 - Abdusalomov, A. B., Mukhiddinov, M., & Whangbo, T. K. (2023). Brain Tumor Detection Based on Deep Learning Approaches and Magnetic Resonance Imaging. Cancers, 15(16), 4172. https://doi.org/10.3390/cancers15164172
 - Mathivanan, S.K., Sonaimuthu, S., Murugesan, S. et al. Employing deep learning and transfer learning for accurate brain tumor detection. Sci Rep 14, 7232 (2024). https://doi.org/10.1038/s41598-024-57970-7
 - American Cancer Society. (2023). Key statistics for brain and spinal cord tumors. Retrieved from https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults/about/key-statistics.html

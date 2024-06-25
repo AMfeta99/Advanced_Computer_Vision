@@ -5,6 +5,8 @@
 ### Introduction & literature
 The human brain, a crucial organ located in the cranium, manages various functions through a complex network of billions of neurons coordinating electrical and chemical impulses. This organ is central to perception, emotion, and character, with distinct components like the cerebral cortex, responsible for consciousness, and the cerebellum, which handles balance and coordination. Despite its resilience, the brain can develop tumors, which are abnormal growths of cells.
 
+The incidence rate of brain and other central nervous system (CNS) tumors varies globally, with the highest rates observed in North America, Northern Europe, and Australia. In the United States, the annual incidence rate is approximately 23 per 100,000 people. For children, brain tumors are the second most common type of cancer, with about 4.7 new cases per 100,000 children annually.
+
 Brain tumors, characterized by the rapid development of abnormal brain cells, pose a major health risk due to their potential to severely impair organ function or cause death. Diagnosing brain tumors typically involves imaging tests and biopsies. Detecting these tumors in MRI scans manually is challenging and time-consuming, often leading to inaccuracies.
 
 Advances in neuro-oncology, particularly with deep learning and artificial intelligence (AI), have significantly improved the analysis of medical images and consequently improved patient care outcomes. AI assists in the detection, diagnosis, and characterization of various medical conditions, enhancing early diagnosis and treatment decisions. Transfer learning from pre-existing models has been shown to improve the efficiency and accuracy of medical image analysis, significantly reducing training time and computational costs. 
@@ -68,5 +70,7 @@ The following hyperparameters were used during training:
 ### References
 - Abdusalomov, A. B., Mukhiddinov, M., & Whangbo, T. K. (2023). Brain Tumor Detection Based on Deep Learning Approaches and Magnetic Resonance Imaging. Cancers, 15(16), 4172. https://doi.org/10.3390/cancers15164172
 - Mathivanan, S.K., Sonaimuthu, S., Murugesan, S. et al. Employing deep learning and transfer learning for accurate brain tumor detection. Sci Rep 14, 7232 (2024). https://doi.org/10.1038/s41598-024-57970-7
+- American Cancer Society. (2023). Key statistics for brain and spinal cord tumors. Retrieved from https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults/about/key-statistics.html
+- National Cancer Institute. (2023). Adult brain tumor treatment (PDQ®)–Health professional version. Retrieved from https://www.cancer.gov/types/brain/hp/adult-brain-treatment-pdq
 - [Dataset](https://universe.roboflow.com/roboflow-100/brain-tumor-m2pbp)
 - [Hugging_Face](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)

@@ -25,6 +25,27 @@ Brain tumor diagnostic app was developed with Gradio. This is hosted by Hugging 
 ![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/8bead0a4-e3f7-4db3-819f-30a70c55c8f7)
 
 
+### Training results
+
+| Training Loss | Epoch | Step | Validation Loss | Accuracy | Precision | Recall | F1     |
+|:-------------:|:-----:|:----:|:---------------:|:--------:|:---------:|:------:|:------:|
+| 0.6519        | 1.0   | 11   | 0.3817          | 0.8      | 0.8476    | 0.8    | 0.7751 |
+| 0.2616        | 2.0   | 22   | 0.0675          | 0.96     | 0.9624    | 0.96   | 0.9594 |
+| 0.1219        | 3.0   | 33   | 0.1770          | 0.92     | 0.9289    | 0.92   | 0.9174 |
+| 0.0527        | 4.0   | 44   | 0.0234          | 1.0      | 1.0       | 1.0    | 1.0    |
+
+### Training hyperparameters
+
+The following hyperparameters were used during training:
+- learning_rate: 0.0003
+- train_batch_size: 20
+- eval_batch_size: 8
+- seed: 42
+- optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
+- lr_scheduler_type: linear
+- num_epochs: 4
+
+
 ### Framework versions
 
 - Transformers 4.41.2

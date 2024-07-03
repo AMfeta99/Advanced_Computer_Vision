@@ -38,6 +38,9 @@ This course offered:
   - Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.
 ##### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA) ;  [More Info](https://www.coursera.org/account/accomplishments/verify/DDXQAQBTVVTA)
 
+### [Prompt Vision Models]() (DeepLearning.AI & Comet)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/42188bdb-dfc6-4611-b937-976fd590ed19?usp=sharing) ; [More Info](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
+
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, TensorFlow and HuggingFace and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 

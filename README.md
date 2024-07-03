@@ -39,6 +39,11 @@ This course offered:
 ##### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA) ;  [More Info](https://www.coursera.org/account/accomplishments/verify/DDXQAQBTVVTA)
 
 ### [Prompt Vision Models]() (DeepLearning.AI & Comet)
+ - Image Generation: Generate images from text prompts using Stable Diffusion, adjusting hyperparameters (strength & guidance scale) for precise control over the outputs.
+ - Image Segmentation: With Meta’s SAM by prompting with coordinates and bounding boxes to accurately identify and separate objects within images.
+ - Object Detection: OWL-ViT for zero-shot object detection, prompting with natural language to detect specific objects and generate bounding boxes for precise isolation.
+ - In-painting: Combine image generation, segmentation, and detection techniques to replace or add objects within images seamlessly, ensuring smooth integration with existing content.
+ - Personalization (w Fine-tuning): DreamBooth to fine-tune diffusion models, associating text labels with specific objects to generate custom images based on provided pictures for personalized outputs.
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/42188bdb-dfc6-4611-b937-976fd590ed19?usp=sharing) ; [More Info](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 
 ### Disclaimer

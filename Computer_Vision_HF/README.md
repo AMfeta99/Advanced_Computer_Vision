@@ -32,7 +32,7 @@ Check it out at:
 - Vision Transformers
 - Typical CV Tasks
 
-[Part II]()
+[Part II](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/Computer_vision_Part_II.pdf)
 - Multimodal Models
 - Vision Language Models (VLMS)
 - Generative Models

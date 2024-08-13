@@ -46,6 +46,8 @@ This course offered:
  - Personalization (w Fine-tuning): DreamBooth to fine-tune diffusion models, associating text labels with specific objects to generate custom images based on provided pictures for personalized outputs.
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/42188bdb-dfc6-4611-b937-976fd590ed19?usp=sharing) ; [More Info](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 
+### [Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) (by Hugging Face)
+
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, TensorFlow and HuggingFace and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 

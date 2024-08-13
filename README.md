@@ -38,7 +38,7 @@ This course offered:
   - Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.
 ##### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA) ;  [More Info](https://www.coursera.org/account/accomplishments/verify/DDXQAQBTVVTA)
 
-### [Prompt Vision Models]() (DeepLearning.AI & Comet)
+### [Prompt Vision Models](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Prompt_Vision_Models) (DeepLearning.AI & Comet)
  - Image Generation: Generate images from text prompts using Stable Diffusion, adjusting hyperparameters (strength & guidance scale) for precise control over the outputs.
  - Image Segmentation: With Meta’s SAM by prompting with coordinates and bounding boxes to accurately identify and separate objects within images.
  - Object Detection: OWL-ViT for zero-shot object detection, prompting with natural language to detect specific objects and generate bounding boxes for precise isolation.
@@ -46,7 +46,8 @@ This course offered:
  - Personalization (w Fine-tuning): DreamBooth to fine-tune diffusion models, associating text labels with specific objects to generate custom images based on provided pictures for personalized outputs.
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/42188bdb-dfc6-4611-b937-976fd590ed19?usp=sharing) ; [More Info](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 
-### [Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) (by Hugging Face)
+### [Computer Vision Course](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF) (by Hugging Face)
+##### [More Info](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
 
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, TensorFlow and HuggingFace and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.

@@ -50,7 +50,7 @@ This course offered:
 - This course delves into the fundamentals of computer vision, covering essential topics such as image processing, convolutional neural networks, and vision transformers.
 - It explores advanced concepts like multimodal models, vision-language models, and generative models, with a focus on both 2D and 3D computer vision tasks.
 - Addresses emerging topics like model optimization, synthetic data, and zero-shot computer vision.
-#####  Course [More Info](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
+#####  Course: [More Info](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
 
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, TensorFlow and HuggingFace and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.

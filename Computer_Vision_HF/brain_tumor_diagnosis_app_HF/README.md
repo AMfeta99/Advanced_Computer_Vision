@@ -2,7 +2,18 @@
 
 ![brain-tumor-scansjpg__1024x480_q100_crop_subsampling-2_upscale](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/cf675a49-d0d0-45f1-98eb-37b904dca82b)
 
-### Introduction & literature
+### Index:
+- [Introduction & literature](#Introduction_&_literature)
+- [Description](#Description)
+- [Algorithm & Training Process](#Algorithm_&_Training_Process)
+- [Application Demo](#Application_Demo)
+- [Challenges](#Challenges)
+- [Training results](#Training_results)
+- [Training_hyperparameters](#Training_hyperparameters)
+- [Framework_versions](#Framework_versions)
+- [References](#References)
+
+### Introduction_&_literature
 The human brain, a crucial organ located in the cranium, manages various functions through a complex network of billions of neurons coordinating electrical and chemical impulses. This organ is central to perception, emotion, and character, with distinct components like the cerebral cortex, responsible for consciousness, and the cerebellum, which handles balance and coordination. Despite its resilience, the brain can develop tumors, which are abnormal growths of cells.
 
 The incidence rate of brain and other central nervous system (CNS) tumors varies globally, with the highest rates observed in North America, Northern Europe, and Australia. In the United States, the annual incidence rate is approximately 23 per 100,000 people. For children, brain tumors are the second most common type of cancer, with about 4.7 new cases per 100,000 children annually.
@@ -21,7 +32,7 @@ This app is based on *Vision Transformer (ViT)* model [google/vit-base-patch16-2
 ViT model is originaly a transformer encoder model pre-trained and fine-tuned on ImageNet 2012. It was introduced in the paper "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" by Dosovitskiy et al. The model processes images as sequences of 16x16 patches, adding a [CLS] token for classification tasks, and uses absolute position embeddings. Pre-training enables the model to learn rich image representations, which can be leveraged for downstream tasks by adding a linear classifier on top of the [CLS] token. The weights were converted from the timm repository by Ross Wightman.
 
 
-## Algorithm & Training Process
+## Algorithm_&_Training_Process
 ViT was fine-tuned for binary classification of brain MRI scans, using the *dataset* [brain-tumor-dataset](https://universe.roboflow.com/roboflow-100/brain-tumor-m2pbp) that contains 253 brain images. This dataset was originally created by Yousef Ghanem.
 
 The original dataset was splitted into training and evaluation subsets, 80% for training and 20% for evaluation. For robust framework evaluation, the evaluation subset is further split into two equal parts for validation and testing. This results in three distinct datasets: training, validation, and testing. 
@@ -31,7 +42,7 @@ The model's performance is enhanced using image enhancement and data augmentatio
 The final version of the model is available at:
 [vit-base-oxford-brain-tumor](https://huggingface.co/AMfeta99/vit-base-oxford-brain-tumor)
 
-## Application Demo
+## Application_Demo
 Brain tumor diagnostic app was developed with Gradio. This is hosted by Hugging Face Spaces, so anyone can have access to it.
 ### Try the Demo : [App](https://huggingface.co/spaces/AMfeta99/brain_tumor_diagnosis)
 
@@ -39,7 +50,7 @@ Brain tumor diagnostic app was developed with Gradio. This is hosted by Hugging 
 ![image](https://github.com/AMfeta99/Advanced_Computer_Vision/assets/74252797/8bead0a4-e3f7-4db3-819f-30a70c55c8f7)
 
 
-### Training results
+### Training_results
 
 | Training Loss | Epoch | Step | Validation Loss | Accuracy | Precision | Recall | F1     |
 |:-------------:|:-----:|:----:|:---------------:|:--------:|:---------:|:------:|:------:|
@@ -48,7 +59,7 @@ Brain tumor diagnostic app was developed with Gradio. This is hosted by Hugging 
 | 0.1219        | 3.0   | 33   | 0.1770          | 0.92     | 0.9289    | 0.92   | 0.9174 |
 | 0.0527        | 4.0   | 44   | 0.0234          | 1.0      | 1.0       | 1.0    | 1.0    |
 
-### Training hyperparameters
+### Training_hyperparameters
 
 The following hyperparameters were used during training:
 - learning_rate: 0.0003
@@ -60,7 +71,7 @@ The following hyperparameters were used during training:
 - num_epochs: 4
 
 
-### Framework versions
+### Framework_versions
 
 - Transformers 4.41.2
 - Pytorch 2.3.0+cu121

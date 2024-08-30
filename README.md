@@ -3,13 +3,12 @@
 This repository is dedicated to projects and some theoretical material that I used to get into topics of Computer Vision (CV) in a practical/efficient way.
 
 ### Index:
-  - [How did I start?](#Master_Thesis)
+  - [What are the topics covered?](#Some_of_the_topics_covered)
   - [Courses](#Courses)
-  - [Hot Topics](#Relevant/Hot_Topics)
   - [Projects](#Projects)
   - [Disclaimer](#Disclaimer)
 
-## Some of the topics covered:
+## Some_of_the_topics_covered:
 - Image Classification
 - Object Detection/Location
 - Image Segmentation
@@ -21,7 +20,7 @@ This repository is dedicated to projects and some theoretical material that I us
 - Zero-shot Computer Vision
 
 With the aim of deepening my knowledge on topics that interest me most and that are more complex and require deeper knowledge to understand and master, I created additional repositories with notes and enthusiastic projects.
-## Link to Relevant/Extra repositories:
+## Relevant/Extra_repositories:
 - ### [3D_DeepLeaning](https://github.com/AMfeta99/3D_DeepLearning)
 - ### [Generative_AI](https://github.com/AMfeta99/Generative_AI/tree/main)
 

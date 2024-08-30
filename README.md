@@ -6,6 +6,7 @@ This repository is dedicated to projects and some theoretical material that I us
   - [What are the topics covered?](#Some_of_the_topics_covered)
   - [Courses](#Courses)
   - [Projects](#Projects)
+  - [Relevant/Extra_repositories](#Relevant/Extra_repositories)
   - [Disclaimer](#Disclaimer)
 
 ## Some_of_the_topics_covered:
@@ -18,11 +19,6 @@ This repository is dedicated to projects and some theoretical material that I us
 - Generative Models & Synthetic Data
 - 3D Computer Vision
 - Zero-shot Computer Vision
-
-With the aim of deepening my knowledge on topics that interest me most and that are more complex and require deeper knowledge to understand and master, I created additional repositories with notes and enthusiastic projects.
-### Relevant/Extra_repositories:
-- ### [3D_DeepLeaning](https://github.com/AMfeta99/3D_DeepLearning)
-- ### [Generative_AI](https://github.com/AMfeta99/Generative_AI/tree/main)
 
 
 ## Courses:
@@ -71,3 +67,9 @@ Here are links to my Computer Vision & Image Processing projects:
   (Private repo) Automate reading of total value of receipts by OCR, automatically select/extract region of total value over all possible numbers/regions, retrieve result in correct format.
 - ### [Brain Tumor Diagnosis App](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF)
   Brain tumor diagnostic app developed with Gradio. ViT fine-tuned for binary classification of brain scans.
+
+
+## Relevant/Extra_repositories:
+With the aim of deepening my knowledge on topics that interest me most and that are more complex and require deeper knowledge to understand and master, I created additional repositories with notes and enthusiastic projects.
+- ### [3D_DeepLeaning](https://github.com/AMfeta99/3D_DeepLearning)
+- ### [Generative_AI](https://github.com/AMfeta99/Generative_AI/tree/main)

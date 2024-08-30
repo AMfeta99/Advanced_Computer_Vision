@@ -2,6 +2,13 @@
 
 This repository is dedicated to projects and some theoretical material that I used to get into topics of Computer Vision (CV) in a practical/efficient way.
 
+### Index:
+  - [How did I start?](#Master_Thesis)
+  - [Courses](#Courses)
+  - [Hot Topics](#Relevant/Hot_Topics)
+  - [Projects](#Projects)
+  - [Disclaimer](#Disclaimer)
+
 ## Some of the topics covered:
 - Image Classification
 - Object Detection/Location

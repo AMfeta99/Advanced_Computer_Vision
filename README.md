@@ -6,7 +6,7 @@ This repository is dedicated to projects and some theoretical material that I us
   - [What are the topics covered?](#Some_of_the_topics_covered)
   - [Courses](#Courses)
   - [Projects](#Projects)
-  - [Relevant/Extra_repositories](#Relevant/Extra_repositories)
+  - [Relevant/Extra_repositories](#Relevant/Extra_repositories:)
 
 ## Some_of_the_topics_covered:
 - Image Classification

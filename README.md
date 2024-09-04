@@ -6,7 +6,7 @@ This repository is dedicated to projects and some theoretical material that I us
   - [What are the topics covered?](#Some_of_the_topics_covered)
   - [Courses](#Courses)
   - [Projects](#Projects)
-  - [Relevant/Extra_repositories](#Relevant/Extra_repositories:)
+  - [Relevant/Extra_repositories](#Relevant/Extra_repositories)
 
 ## Some_of_the_topics_covered:
 - Image Classification
@@ -68,7 +68,7 @@ Here are links to my Computer Vision & Image Processing projects:
   Brain tumor diagnostic app developed with Gradio. ViT fine-tuned for binary classification of brain scans.
 
 
-## Relevant/Extra_repositories:
+## Relevant/Extra_repositories
 With the aim of deepening my knowledge on topics that interest me most and that are more complex and require deeper knowledge to understand and master, I created additional repositories with notes and enthusiastic projects.
 - ### [3D_DeepLeaning](https://github.com/AMfeta99/3D_DeepLearning)
 - ### [Generative_AI](https://github.com/AMfeta99/Generative_AI/tree/main)

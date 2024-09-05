@@ -1,7 +1,6 @@
 # Advanced Computer Vision
 
 This repository is dedicated to projects and some theoretical material that I used to get into topics of Computer Vision (CV) in a practical/efficient way.
-![image](https://github.com/user-attachments/assets/4a4efe67-2bcf-4a5f-91ba-45790aed25a6)
 
 ### Index:
   - [What are the topics covered?](#Some_of_the_topics_covered)

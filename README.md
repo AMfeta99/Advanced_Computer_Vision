@@ -19,7 +19,7 @@ This repository is dedicated to projects and some theoretical material that I us
 - 3D Computer Vision
 - Zero-shot Computer Vision
 
-Find my notes: [Part I], [Part II], [Part II]
+Find my notes: [Part I](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/Computer_vision_Part_1.pdf), [Part II](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/Computer_vision_Part_2.pdf) <!--, [Part II]-->
 
 
 ## Courses:

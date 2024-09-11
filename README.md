@@ -19,6 +19,8 @@ This repository is dedicated to projects and some theoretical material that I us
 - 3D Computer Vision
 - Zero-shot Computer Vision
 
+Find my notes: [Part I], [Part II], [Part II]
+
 
 ## Courses:
 ### [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) (DeepLearning.AI) 

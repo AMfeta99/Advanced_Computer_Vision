@@ -38,10 +38,10 @@ Check it out at:
 - Generative Models
 - Video
 
-[Part III]()
+[Part III](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/Computer_vision_Part_3.pdf)
 - 3D Computer Vision
 - Model Optimization
-- Synthetic Data
+<!-- - Synthetic Data -->
 - Zero-shot Computer Vision
 
 <!--   

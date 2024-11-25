@@ -19,6 +19,7 @@ Check it out at:
  - MaskFormer Transfer Learning Segmentation
  - CLIP
  - Multimodal Models VLMs
+ - NeRFs (encoding and addictional Notes)
 
 ## Notes & Content:
 (Check my notes on links below)

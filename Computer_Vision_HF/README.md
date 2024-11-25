@@ -41,8 +41,9 @@ Check it out at:
 [Part III](https://github.com/AMfeta99/Advanced_Computer_Vision/blob/main/Computer_Vision_HF/Computer_vision_Part_3.pdf)
 - 3D Computer Vision
 - Model Optimization
-<!-- - Synthetic Data -->
 - Zero-shot Computer Vision
+<!-- - Synthetic Data -->
+
 
 <!--   
 ## Unit 1 - Fundamentals
